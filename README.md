@@ -38,7 +38,7 @@ Backend · AI Engineer
 <td style="border:none;vertical-align:top;width:50%;">
 <p style="margin:4px 0;"><span style="font-size:16px;">💼</span>&nbsp;<a href="https://github.com/woogieReal">GitHub</a></p>
 <p style="margin:4px 0;"><span style="font-size:16px;">📄</span>&nbsp;정보처리기사 / JLPT N1 / TOEIC 890</p>
-<p style="margin:4px 0;"><span style="font-size:16px;">📍</span>&nbsp;경기도 고양시 일산동구</p>
+<p style="margin:4px 0;"><span style="font-size:16px;">📍</span>&nbsp;5년차 백엔드 개발자</p>
 </td>
 </tr>
 </table>
